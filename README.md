@@ -33,6 +33,5 @@ The aim of this project is to provide a comprehensive and interactive analysis o
 * **DAX (Data Analysis Expressions)**: For creating custom calculations and measures.
 * **Power Query**: For data transformation and cleaning.
 
-
-
+ # Images
 
