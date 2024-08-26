@@ -34,4 +34,14 @@ The aim of this project is to provide a comprehensive and interactive analysis o
 * **Power Query**: For data transformation and cleaning.
 
  # Images
+ 
+![CR7 Home](https://github.com/user-attachments/assets/87a6a6cd-52c5-4ff1-875e-e4f21820affa)
+
+![CR7 Overview](https://github.com/user-attachments/assets/bbfc7620-1e87-4055-bf97-3c0cc4008be7)
+
+![CR7 Goal Analysis](https://github.com/user-attachments/assets/22aac41a-b3b0-4a2d-ba76-328ca82b3be2)
+
+![CR7 Club Analysis](https://github.com/user-attachments/assets/9e3b464d-37e2-43aa-8d97-882dd1a6ed49)
+
+
 
